@@ -51,8 +51,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Amine Koubaa
+          subtitle: "I am a postdoc at Leibniz University Hannover under the supervision of Prof. Stefan Schreieder. I am currently working on cycle conjectures and birational invariance in positive characteristic. I did my PhD thesis under the supervision of Prof. Katharina Hübner at the Universities of Frankfurt and Heidelberg."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -61,48 +61,30 @@ params:
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
             - name: Courses
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+            - name: Conferences and talks
+              url: conferences/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
+          url: mailto:koubaa@math.uni-hannover.de
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
-
-    assets:
+        - name: Mathoverflow
+          url: https://changeme
+        assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Amine Koubaa"
       icon: favicon.ico
       iconHeight: 18
 
