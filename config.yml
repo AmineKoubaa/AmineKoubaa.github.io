@@ -24,13 +24,10 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "I'm Amine Koubaa, a Postdoc at Leibniz University Hannover under Prof. Stefan Schreieder. I did my PhD about purity in the tame cohomology under the supervision of Prof. Katharina Hübner"
+    author: Amine Koubaa
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
