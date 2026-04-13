@@ -3,8 +3,8 @@ title: "The Finer Points of Sausage Dogs"
 date: 2004-12-28
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic""
-summary: "his Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"" 
+description: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"
+summary: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"
 cover:
     image: "image1.png"
     alt: "Some Uses For Olive Oil"
