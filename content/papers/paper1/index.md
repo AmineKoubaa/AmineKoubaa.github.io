@@ -6,6 +6,7 @@ author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic""
 summary: "his Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"" 
 cover:
+    image: "image1.png"
     alt: "Some Uses For Olive Oil"
     relative: true
 editPost:
