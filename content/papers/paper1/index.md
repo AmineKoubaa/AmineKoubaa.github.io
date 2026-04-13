@@ -1,6 +1,6 @@
 ---
 title: "The Cartier operator on differentials of discretely ringed adic spaces and Purity in the tame cohomology" 
-date: 2024-8-5
+date: 2024-08-05
 tags: ["Algebraic Geometry"]
 author: ["Amine Koubaa"]
 description: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"
