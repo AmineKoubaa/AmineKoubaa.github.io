@@ -1,6 +1,6 @@
 ---
 title: "Purity for the tame cohomology" 
-date: 
+date: 05.05.2024
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic""
