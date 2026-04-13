@@ -1,13 +1,13 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+title: "The Cartier operator on differentials of discretely ringed adic spaces and Purity in the tame cohomology" 
+date: 2024-8-5
+tags: ["Algebraic Geometry"]
+author: ["Amine Koubaa"]
 description: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"
 summary: "This Paper contains a proof of cohomological purity for tame cohomology for schemes in positive characteristic"
 cover:
-    image: "image1.png"
-    alt: "Some Uses For Olive Oil"
+    image: 
+    alt: ""
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
